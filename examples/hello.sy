@@ -1,0 +1,5 @@
+int main() {
+    putint(2023);
+    putch(10);
+    return 0;
+}

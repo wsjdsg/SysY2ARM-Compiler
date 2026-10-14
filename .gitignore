@@ -1,0 +1,24 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+/.vscode/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated compiler output
+*.s
+*.ll

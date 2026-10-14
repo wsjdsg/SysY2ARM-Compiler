@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+*.java text eol=lf
+*.g4 text eol=lf
+compiler text eol=lf
